@@ -57,5 +57,5 @@ if __name__ == "__main__":
     file_path = "data/raw/all_reviews_raw.csv"
     df_raw.to_csv(file_path, index=False)
 
-    print(f"\n📁 Saved raw reviews → {file_path}")
-    print(f"📊 Total reviews collected: {len(df_raw)}")
+    print(f"\n Saved raw reviews → {file_path}")
+    print(f"Total reviews collected: {len(df_raw)}")

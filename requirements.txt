@@ -9,6 +9,13 @@ scikit-learn
 tensorflow
 transformers
 matplotlib
+sqlalchemy
+psycopg2-binary
+python-dotenv
+scikit-learn
+spacy
+wordcloud
+matplotlib
 seaborn
 yake
 rake-nltk
